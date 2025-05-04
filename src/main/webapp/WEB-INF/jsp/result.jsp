@@ -120,8 +120,9 @@
         }
     </style>
     </body>
-         <h2>Result is : ${result} </h2>
-
+        <h2>Welcome</h2>
+         <h2>${alien}</h2>
+          <h2>Welcome to ${course} Course</h2>
 
     </body>
 </html>
